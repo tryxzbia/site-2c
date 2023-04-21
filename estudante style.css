@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #5B88CB;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 10px 550px;
+    font-size: 20px;
+}
+
+.cabecalho-voltar-item {
+    display: inline-block;
+    font-size: 20px;
+}
+
